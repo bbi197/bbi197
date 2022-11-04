@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @bbi197
-- 👀 I’m interested in data and information management and manipulation
-- 🌱 I’m currently learning program development
+- 👋 Hi, I’m @bbi197 (Brian Njoroge Mwaniki)
+- 👀 I’m interested in data and information management and its manipulation
+- 🌱 I’m currently studying in Computer science
 - 💞️ I’m looking to collaborate on data encryption
 - 📫 How to reach me mwanikibrian1884@gmail.com
 
 <!---
-bbi197/bbi197 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+this is a comment that i just changed from the default comment 
 --->
