@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bbi197 (Brian Njoroge Mwaniki)
+- 👋 Hi, I’m @bbi197 (Brian.N.Mwaniki)
 - 👀 I’m interested in data and information management and its manipulation
 - 🌱 I’m currently studying in Computer science
 - 💞️ I’m looking to collaborate on anything hardware or software related
